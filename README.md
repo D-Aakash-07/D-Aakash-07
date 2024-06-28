@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+🔭 I’m currently working on Machine learning and GENAI projects.
+🌱 I’m currently learning Deep Learning, Cloud services, etc.
+📫 How to reach me: www.linkedin.com/in/aakash-chauhan-ai
+😄 Pronouns: he/him
+⚡ Fun fact: I am built different.
+
+
+
